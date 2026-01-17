@@ -28,6 +28,4 @@ This project demonstrates clean modal logic commonly used in real-world React ap
 - **JavaScript (ES6+)**
 - **Tailwind CSS**
 
----
-
 
